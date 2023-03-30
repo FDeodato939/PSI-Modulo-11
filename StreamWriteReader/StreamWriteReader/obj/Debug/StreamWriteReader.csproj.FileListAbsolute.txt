@@ -1,0 +1,8 @@
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\StreamWriteReader\StreamWriteReader\bin\Debug\StreamWriteReader.exe.config
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\StreamWriteReader\StreamWriteReader\bin\Debug\StreamWriteReader.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\StreamWriteReader\StreamWriteReader\bin\Debug\StreamWriteReader.pdb
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\StreamWriteReader\StreamWriteReader\obj\Debug\StreamWriteReader.csproj.AssemblyReference.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\StreamWriteReader\StreamWriteReader\obj\Debug\StreamWriteReader.csproj.SuggestedBindingRedirects.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\StreamWriteReader\StreamWriteReader\obj\Debug\StreamWriteReader.csproj.CoreCompileInputs.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\StreamWriteReader\StreamWriteReader\obj\Debug\StreamWriteReader.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudio\StreamWriteReader\StreamWriteReader\obj\Debug\StreamWriteReader.pdb
