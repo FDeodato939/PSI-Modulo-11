@@ -1,0 +1,75 @@
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\E-WasteCalculator\E-WasteCalculator\bin\Debug\E-WasteCalculator.exe.config
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\E-WasteCalculator\E-WasteCalculator\bin\Debug\E-WasteCalculator.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\E-WasteCalculator\E-WasteCalculator\bin\Debug\E-WasteCalculator.pdb
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\E-WasteCalculator\E-WasteCalculator\obj\Debug\E-WasteCalculator.csproj.AssemblyReference.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\E-WasteCalculator\E-WasteCalculator\obj\Debug\E-WasteCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\E-WasteCalculator\E-WasteCalculator\obj\Debug\E_WasteCalculator.Properties.Resources.resources
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\E-WasteCalculator\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step1.resources
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\E-WasteCalculator\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step2Se.resources
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\E-WasteCalculator\E-WasteCalculator\obj\Debug\E-WasteCalculator.csproj.GenerateResource.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\E-WasteCalculator\E-WasteCalculator\obj\Debug\E-WasteCalculator.csproj.CoreCompileInputs.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\E-WasteCalculator\E-WasteCalculator\obj\Debug\E-WasteCalculator.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\E-WasteCalculator\E-WasteCalculator\obj\Debug\E-WasteCalculator.pdb
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\VisualStudioForms\E-WasteCalculator\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step3.resources
+C:\Users\ASUS\Desktop\E-WasteCalculator\E-WasteCalculator\bin\Debug\E-WasteCalculator.exe.config
+C:\Users\ASUS\Desktop\E-WasteCalculator\E-WasteCalculator\bin\Debug\E-WasteCalculator.exe
+C:\Users\ASUS\Desktop\E-WasteCalculator\E-WasteCalculator\bin\Debug\E-WasteCalculator.pdb
+C:\Users\ASUS\Desktop\E-WasteCalculator\E-WasteCalculator\obj\Debug\E-WasteCalculator.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\E-WasteCalculator\E-WasteCalculator\obj\Debug\E-WasteCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\E-WasteCalculator\E-WasteCalculator\obj\Debug\E_WasteCalculator.Properties.Resources.resources
+C:\Users\ASUS\Desktop\E-WasteCalculator\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step1.resources
+C:\Users\ASUS\Desktop\E-WasteCalculator\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step2Se.resources
+C:\Users\ASUS\Desktop\E-WasteCalculator\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step3.resources
+C:\Users\ASUS\Desktop\E-WasteCalculator\E-WasteCalculator\obj\Debug\E-WasteCalculator.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\E-WasteCalculator\E-WasteCalculator\obj\Debug\E-WasteCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\E-WasteCalculator\E-WasteCalculator\obj\Debug\E-WasteCalculator.exe
+C:\Users\ASUS\Desktop\E-WasteCalculator\E-WasteCalculator\obj\Debug\E-WasteCalculator.pdb
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculator\E-WasteCalculator\bin\Debug\E-WasteCalculator.exe.config
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculator\E-WasteCalculator\bin\Debug\E-WasteCalculator.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculator\E-WasteCalculator\bin\Debug\E-WasteCalculator.pdb
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculator\E-WasteCalculator\obj\Debug\E-WasteCalculator.csproj.AssemblyReference.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculator\E-WasteCalculator\obj\Debug\E-WasteCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculator\E-WasteCalculator\obj\Debug\E_WasteCalculator.Properties.Resources.resources
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculator\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step1.resources
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculator\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step2Se.resources
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculator\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step2Sm.resources
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculator\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step3.resources
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculator\E-WasteCalculator\obj\Debug\E-WasteCalculator.csproj.GenerateResource.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculator\E-WasteCalculator\obj\Debug\E-WasteCalculator.csproj.CoreCompileInputs.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculator\E-WasteCalculator\obj\Debug\E-WasteCalculator.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculator\E-WasteCalculator\obj\Debug\E-WasteCalculator.pdb
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculator\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step2L.resources
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculator\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step2Le.resources
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculator\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step2Tee.resources
+C:\Users\ASUS\Desktop\E-WasteCalculator\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step2L.resources
+C:\Users\ASUS\Desktop\E-WasteCalculator\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step2Le.resources
+C:\Users\ASUS\Desktop\E-WasteCalculator\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step2Sm.resources
+C:\Users\ASUS\Desktop\E-WasteCalculator\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step2Tee.resources
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculator\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step2.resources
+C:\Users\ASUS\Desktop\E-WasteCalculator\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step2.resources
+C:\Users\ASUS\Desktop\E-WasteCalculatorSimple\E-WasteCalculator\bin\Debug\E-WasteCalculator.exe.config
+C:\Users\ASUS\Desktop\E-WasteCalculatorSimple\E-WasteCalculator\bin\Debug\E-WasteCalculator.exe
+C:\Users\ASUS\Desktop\E-WasteCalculatorSimple\E-WasteCalculator\bin\Debug\E-WasteCalculator.pdb
+C:\Users\ASUS\Desktop\E-WasteCalculatorSimple\E-WasteCalculator\obj\Debug\E-WasteCalculator.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\E-WasteCalculatorSimple\E-WasteCalculator\obj\Debug\E-WasteCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\E-WasteCalculatorSimple\E-WasteCalculator\obj\Debug\E_WasteCalculator.Properties.Resources.resources
+C:\Users\ASUS\Desktop\E-WasteCalculatorSimple\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step1.resources
+C:\Users\ASUS\Desktop\E-WasteCalculatorSimple\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step2.resources
+C:\Users\ASUS\Desktop\E-WasteCalculatorSimple\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step3.resources
+C:\Users\ASUS\Desktop\E-WasteCalculatorSimple\E-WasteCalculator\obj\Debug\E-WasteCalculator.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\E-WasteCalculatorSimple\E-WasteCalculator\obj\Debug\E-WasteCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\E-WasteCalculatorSimple\E-WasteCalculator\obj\Debug\E-WasteCalculator.exe
+C:\Users\ASUS\Desktop\E-WasteCalculatorSimple\E-WasteCalculator\obj\Debug\E-WasteCalculator.pdb
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculatorSimple\E-WasteCalculator\bin\Debug\E-WasteCalculator.exe.config
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculatorSimple\E-WasteCalculator\bin\Debug\E-WasteCalculator.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculatorSimple\E-WasteCalculator\bin\Debug\E-WasteCalculator.pdb
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculatorSimple\E-WasteCalculator\obj\Debug\E-WasteCalculator.csproj.AssemblyReference.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculatorSimple\E-WasteCalculator\obj\Debug\E-WasteCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculatorSimple\E-WasteCalculator\obj\Debug\E_WasteCalculator.Properties.Resources.resources
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculatorSimple\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step1.resources
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculatorSimple\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step2.resources
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculatorSimple\E-WasteCalculator\obj\Debug\E_WasteCalculator.Step3.resources
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculatorSimple\E-WasteCalculator\obj\Debug\E-WasteCalculator.csproj.GenerateResource.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculatorSimple\E-WasteCalculator\obj\Debug\E-WasteCalculator.csproj.CoreCompileInputs.cache
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculatorSimple\E-WasteCalculator\obj\Debug\E-WasteCalculator.exe
+C:\Users\bun73\OneDrive\Ambiente de Trabalho\E-WasteCalculatorSimple\E-WasteCalculator\obj\Debug\E-WasteCalculator.pdb
