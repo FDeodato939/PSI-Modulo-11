@@ -28,15 +28,15 @@ namespace E_WasteCalculator
             CollectLabel.Text = ("You collected a total of " + (int)Waste + " kg of e-waste.\nCorrectly recycled, this saves up to " + (int)Equivalent + " kg CO2 equivalent.");
             if (text == 0)
             {
-                label1.Text = ("CO2 recolhido\n equivalente a " + "" + (int)Equivalent / (int)10.6 + " garrafas de coca-cola.");
+                label1.Text = ("CO2 collected\n equivalent to " + "" + (int)Equivalent / (int)10.6 + " coca cola bottles.");
             }
             else if (text == 1)
             {
-                label1.Text = ("CO2 recolhido \nequivalente a " + "" + (int)Equivalent / (double)0.5 + " garrafas de coca-cola de 2L");
+                label1.Text = ("CO2 collected \nequivalent to " + "" + (int)Equivalent / (double)0.5 + " 2L coca cola bottles.");
             }
             else if (text == 2)
             {
-                label1.Text = ("CO2 recolhido \nequivalente a " + "" + (int)Equivalent / (int)5000 + " extintores de incêndio.");
+                label1.Text = ("CO2 collected \nequivalent to " + "" + (int)Equivalent / (int)5000 + " fire extinguishers.");
             }
         }
 
